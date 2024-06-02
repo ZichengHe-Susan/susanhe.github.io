@@ -27,4 +27,4 @@
 **JavaFX Course Review Application**
 [GitHub Link](https://github.com/ZichengHe-Susan/CourseSearch-Application)
 
-- a CRUD application for managing academic course reviews
+> a CRUD application for managing academic course reviews
