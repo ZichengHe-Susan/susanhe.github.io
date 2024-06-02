@@ -1,5 +1,5 @@
 title: Susan He
-logo: /assets/img/eggplant.JPG
+logo: /assets/img/eggplant.jpg
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
