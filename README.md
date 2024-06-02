@@ -1,4 +1,5 @@
-# About Me
+# About Me 
+![Octocat](https://github.com/ZichengHe-Susan/susanhe.github.io/blob/main/assets/img/eggplant.jpg)
 
 **Hi, I am Zicheng(Susan) He, an undergraduate student at the University of Virginia, majoring in Computer Science and Philosophy. I am passionate about full-stack web development and mobile development.**
 
