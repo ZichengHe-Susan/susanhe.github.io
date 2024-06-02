@@ -1,5 +1,7 @@
 # Zicheng He
 
+# About Me
+
 #### Hi, I am Zicheng He, an undergraduate student at the University of Virginia, majoring in Computer Science and Philosophy. I am passionate about full-stack web development and mobile development.
 
 ## Education
