@@ -1,6 +1,6 @@
-# Data Scientist
+# Zicheng He
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Hi, I am Zicheng He, an undergraduate student at the University of Virginia, majoring in Computer Science and Philosophy. I am passionate about full-stack web development and mobile development.
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
