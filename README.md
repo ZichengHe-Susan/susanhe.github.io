@@ -1,6 +1,6 @@
 # About Me 
 
-Hi, I am Zicheng (Susan) He, an undergraduate student at the **University of Virginia** College of Arts and Sciences, majoring in `Computer Science` and `Philosophy`. I am passionate about _full-stack web development_ and _mobile development_.
+Hi, I am Zicheng (Susan) He, an undergraduate student at the **University of Virginia** College of Arts and Sciences, majoring in `Computer Science` and `Mathematics`. I am passionate about _full-stack web development_ and _mobile development_.
 
 [LinkedIn](https://www.linkedin.com/in/zicheng-he-9b8670298/) |
 [GitHub](https://github.com/ZichengHe-Susan) |
